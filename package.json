@@ -1,0 +1,45 @@
+{
+  "name": "geodarts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.mi.hdm-stuttgart.de:ji016/geodarts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@turf/turf": "^5.1.6",
+    "async-redis": "^1.1.7",
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "core-util-is": "^1.0.2",
+    "dotenv": "^8.2.0",
+    "expect": "^26.4.1",
+    "expect.js": "^0.3.1",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "geojson": "^0.5.0",
+    "http": "0.0.1-security",
+    "ioredis": "^4.17.3",
+    "mapbox": "^1.0.0-beta10",
+    "mapbox-gl": "^1.10.2",
+    "moment-timezone": "^0.5.31",
+    "pug": "^3.0.0",
+    "randomcolor": "^0.6.2",
+    "redis": "^3.0.2",
+    "socket.io": "^2.3.0",
+    "socket.io-redis": "^5.3.0",
+    "uuid": "^8.1.0",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}

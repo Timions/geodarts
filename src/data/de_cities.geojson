@@ -1,0 +1,537 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Mannheim, Baden-Württemberg, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          8.46306,
+          49.48361
+        ],
+        "type": "Point"
+      },
+      "id": "place.10426201005497870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Karlsruhe, Baden-Württemberg, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          8.40417,
+          49.01389
+        ],
+        "type": "Point"
+      },
+      "id": "place.11909531710116290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Kassel, Hessen, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          9.49778,
+          51.31972
+        ],
+        "type": "Point"
+      },
+      "id": "place.12016229393700260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Regensburg, Bayern, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          12.08333,
+          49.01667
+        ],
+        "type": "Point"
+      },
+      "id": "place.12071343155376390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Augsburg, Bayern, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          10.89833,
+          48.37167
+        ],
+        "type": "Point"
+      },
+      "id": "place.12266716838423170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Rostock, Mecklenburg-Vorpommern, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          12.13333,
+          54.08333
+        ],
+        "type": "Point"
+      },
+      "id": "place.12676895207740050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Bonn, Nordrhein-Westfalen, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          7.1002,
+          50.73616
+        ],
+        "type": "Point"
+      },
+      "id": "place.1284307252596900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Essen, Nordrhein-Westfalen, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          7.01476,
+          51.45807
+        ],
+        "type": "Point"
+      },
+      "id": "place.13237568759921920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Köln, Nordrhein-Westfalen, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          6.95778,
+          50.94222
+        ],
+        "type": "Point"
+      },
+      "id": "place.13498115301191980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Berlin, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          13.38333,
+          52.51667
+        ],
+        "type": "Point"
+      },
+      "id": "place.13791632787564380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Bielefeld, Nordrhein-Westfalen, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          8.51667,
+          52.01667
+        ],
+        "type": "Point"
+      },
+      "id": "place.14114130318808870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Dresden, Sachsen, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          13.75,
+          51.05
+        ],
+        "type": "Point"
+      },
+      "id": "place.14548252732868920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Hamburg, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          10,
+          53.55
+        ],
+        "type": "Point"
+      },
+      "id": "place.17042528695398860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Bremen, Bremen, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          8.80889,
+          53.07694
+        ],
+        "type": "Point"
+      },
+      "id": "place.17278229933181860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Koblenz, Rheinland-Pfalz, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          7.59778,
+          50.35972
+        ],
+        "type": "Point"
+      },
+      "id": "place.17883892258833870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Nürnberg, Bayern, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          11.07778,
+          49.45278
+        ],
+        "type": "Point"
+      },
+      "id": "place.18147772186991270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Hannover, Niedersachsen, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          9.73861,
+          52.37444
+        ],
+        "type": "Point"
+      },
+      "id": "place.2300084852949340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Schwerin, Mecklenburg-Vorpommern, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          11.41667,
+          53.63333
+        ],
+        "type": "Point"
+      },
+      "id": "place.3482232443973070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Wuppertal, Nordrhein-Westfalen, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          7.18333,
+          51.26667
+        ],
+        "type": "Point"
+      },
+      "id": "place.4331883731749470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Ulm, Baden-Württemberg, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          9.98333,
+          48.4
+        ],
+        "type": "Point"
+      },
+      "id": "place.4634175181782180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Kiel, Schleswig-Holstein, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          10.14056,
+          54.32528
+        ],
+        "type": "Point"
+      },
+      "id": "place.5130493894212350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Göttingen, Niedersachsen, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          9.93556,
+          51.53389
+        ],
+        "type": "Point"
+      },
+      "id": "place.5394973891778800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Stuttgart, Baden-Württemberg, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          9.1775,
+          48.77611
+        ],
+        "type": "Point"
+      },
+      "id": "place.5443458428087800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Lübeck, Schleswig-Holstein, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          10.68639,
+          53.86972
+        ],
+        "type": "Point"
+      },
+      "id": "place.5867762351470390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Ingolstadt, Bayern, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          11.42611,
+          48.76361
+        ],
+        "type": "Point"
+      },
+      "id": "place.5931406745804270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Bremerhaven, Bremen, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          8.5933,
+          53.5545
+        ],
+        "type": "Point"
+      },
+      "id": "place.5990481165786400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Saarbrücken, Saarland, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          7,
+          49.23333
+        ],
+        "type": "Point"
+      },
+      "id": "place.6569287069921040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Dortmund, Nordrhein-Westfalen, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          7.46528,
+          51.51389
+        ],
+        "type": "Point"
+      },
+      "id": "place.6608215870505440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Frankfurt am Main, Hessen, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          8.67972,
+          50.11361
+        ],
+        "type": "Point"
+      },
+      "id": "place.7300924236190980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Erfurt, Thüringen, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          11.02917,
+          50.97806
+        ],
+        "type": "Point"
+      },
+      "id": "place.7402968514419540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Cottbus, Brandenburg, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          14.31971,
+          51.75602
+        ],
+        "type": "Point"
+      },
+      "id": "place.7512156685256680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Chemnitz, Sachsen, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          12.91667,
+          50.83333
+        ],
+        "type": "Point"
+      },
+      "id": "place.8152545303357500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "München, Bayern, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          11.56667,
+          48.13333
+        ],
+        "type": "Point"
+      },
+      "id": "place.8366109811859780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Mainz, Rheinland-Pfalz, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          8.266669,
+          50
+        ],
+        "type": "Point"
+      },
+      "id": "place.8572630904015480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Würzburg, Bayern, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          9.92944,
+          49.79444
+        ],
+        "type": "Point"
+      },
+      "id": "place.8607456292843790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Leipzig, Sachsen, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          12.38333,
+          51.33333
+        ],
+        "type": "Point"
+      },
+      "id": "place.9073470873585060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Freiburg im Breisgau, Baden-Württemberg, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          7.84972,
+          47.99472
+        ],
+        "type": "Point"
+      },
+      "id": "place.9283010697174170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Magdeburg, Sachsen-Anhalt, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          11.61667,
+          52.13333
+        ],
+        "type": "Point"
+      },
+      "id": "place.9398054011045430"
+    }
+  ],
+  "type": "FeatureCollection"
+}
