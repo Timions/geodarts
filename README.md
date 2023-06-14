@@ -1,3 +1,5 @@
+For more information see: https://blog.mi.hdm-stuttgart.de/index.php/2020/09/30/geodarts/
+
 # Setup
 - run `npm install` to get code dependencies
 - run `npm start`
